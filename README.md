@@ -25,12 +25,14 @@ Start with the official exam objectives for your exam (they're the blueprint eve
 - [AWS Skill Builder — free tier](https://skillbuilder.aws/) — free digital training and practice questions from AWS
 - [AWS Certified Cloud Practitioner exam guide](https://aws.amazon.com/certification/certified-cloud-practitioner/) — official exam guide and sample questions
 - [ByteBar free resources: free IT certification practice quiz](https://bytebarhq.github.io/bytebar-quiz/) — 15 exams, 225 questions with instant explanations, including AWS Cloud Practitioner
+- [ExamIT Lab — AWS practice exams and labs](https://examitlab.com/exams/clf-c02) — free practice questions for Cloud Practitioner and Solutions Architect Associate, plus hands-on labs in a simulated AWS Management Console
 
 ## Microsoft
 
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/) — free learning paths and modules for Azure certifications including AZ-104
 - [Microsoft exam page — AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) — official skills outline and study resources
 - [ByteBar free resources: free IT certification practice quiz](https://bytebarhq.github.io/bytebar-quiz/) — 15 exams, 225 questions with instant explanations, including Azure Fundamentals
+- [ExamIT Lab — Azure/Microsoft 365 practice exams and labs](https://examitlab.com/exams/az-104) — free practice questions for AZ-900, AZ-104, MD-102, SC-300, SC-200 and AB-900, plus hands-on labs in simulated Azure and Microsoft 365 admin centers
 
 ## ISC2
 
